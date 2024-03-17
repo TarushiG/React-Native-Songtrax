@@ -1,0 +1,1 @@
+Developed for Android platform, using Android Studio and physical emulator.
